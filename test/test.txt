@@ -1,3 +1,4 @@
 miraz
 asdg
 git merge
+git pull
